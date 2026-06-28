@@ -1,4 +1,4 @@
-# 
+# 专业 Adobe Photoshop 效果 Mac OS版 | 新 Adobe Photoshop 效果 PC Windows版。集成 组件库 和 几何节点，跨平台性能最大化。
 
 
 
